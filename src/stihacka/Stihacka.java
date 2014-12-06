@@ -13,7 +13,7 @@ import net.useobjects.timer.SimpleTimer;
 
 /**
  *
- * @author ja
+ * @author xkukuckaa
  */
 public class Stihacka{
 
